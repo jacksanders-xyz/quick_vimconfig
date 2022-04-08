@@ -101,5 +101,8 @@ nnoremap <C-\> :delmarks!<CR>
 " NERDTREE
 nnoremap <leader>iv :Ex<CR>
 nnoremap <leader>is <C-w><C-v>:Ex<CR>
+
+" TERMINAL
+nnoremap <leader>T :Terminal<CR>
 let g:netrw_banner = 0
 
